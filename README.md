@@ -1,5 +1,5 @@
 # An-Analysis-of-Kickstarter-Campaigns
-This project was an analysis of Kickstarters in a selectedd year across the world on behalf of Louise to ascertain the best goals for a successful theater based kickstarter.
+This project was an analysis of Kickstarters in a selectedd year across the world on behalf of Louise to ascertain the best goals for a successful theater based kickstarter. ---
 **##The most successful time of the year
 ![Outcomes.png](path/to/Outcomes.png)
 + Here we see that the amount of successful kickstarters doubled in May, continuing to drop over the summer before balancing out at an average baseline.
