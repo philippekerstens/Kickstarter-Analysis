@@ -13,5 +13,5 @@ This project was an analysis of Kickstarters in a selectedd year across the worl
 + *2. It can be surmised that plays, as very popular medium of entertainment are the most obvious form of seeing the results of your actions thus it feels as if you are truly contributing to something of note
 + *3. There is a far greater garuntee of success for plays than any other category
 
-##Results
+**##Results
 + It seems based on the successful campaigns, that the wording of who is seeking the funds is the most important, as regardless of goal size, campaigns succeeded in a manner that indicated popular interest above all others - so it seems advantagueous to avise our playwright to focus on a production that will greatly capture public interest, especially as a small group - and success should come if managed wisely.
